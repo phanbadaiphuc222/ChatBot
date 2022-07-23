@@ -220,3 +220,10 @@ nlu:
     - Tell me about do while loop in C?
     - Explain do while loop in C.
     - What is syntax of do while loop in c.
+
+- intent: array
+  examples: |
+    - what is array?
+    - array?
+    - How does array work?
+    - explain array?
