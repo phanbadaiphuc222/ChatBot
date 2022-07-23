@@ -94,6 +94,11 @@ stories:
   - intent: error
   - action: utter_error
 
+- story: array
+  steps:
+  - intent: array
+  - action: utter_array
+
 # - story:
 #   steps:
 #   - intent:

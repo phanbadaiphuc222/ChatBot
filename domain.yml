@@ -9,6 +9,7 @@ intents:
   - mood_unhappy
   - bot_challenge
   - about_c
+  - array
   - datatype
   - programming
   - variable
@@ -143,6 +144,11 @@ responses:
       \ using while statement. \n•It means that the body of the loop will be executed\
       \ at least once, even though the starting condition inside while is initialized\
       \ to be false."
+  
+  utter_array:
+  - text: "Array in C can be defined as a method of clubbing multiple entities
+      \n of similar type into a larger group. These entities or elements can be of int,\n
+      float, char, or double data type or can be of user-defined data types too like  structures."
 
 session_config:
   session_expiration_time: 60
